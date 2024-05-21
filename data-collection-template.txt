@@ -1,4 +1,4 @@
-When creating a Python application to collect data from multiple systems, having a checklist or template can help ensure you cover all necessary aspects. Here's a high-level checklist to get you started:
+A. When creating a Python application to collect data from multiple systems, having a checklist or template can help ensure you cover all necessary aspects. Here's a high-level checklist to get you started:
 
 1. **System Integration and Requirements:**
     - Understand the systems you'll integrate with (APIs, data sources).
